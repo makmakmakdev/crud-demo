@@ -17,7 +17,7 @@ cp .envexample .env
 ```javascript
 DB_CONNECTION = //Your MongoDB url goes here
 ```
-sample url: **mongodb+srv://\<username>:\<password>@<cluster>.6cai5.mongodb.net/\<collection>?retryWrites=true&w=majority**
+sample url: **mongodb+srv://\<username>:\<password>@\<cluster>.6cai5.mongodb.net/\<collection>?retryWrites=true&w=majority**
 
 ---
 ## Create
