@@ -2,10 +2,9 @@
 This is a simple app that shows how to implement basic CRUD operations in Node.js with MongoDB.
 ### *This uses the following packages: **express, mongoose***
 ---
-### Install
+### Rum npm install
 ```bash
 npm install
-npm start
 ```
 
 ### Copy .env file
@@ -19,6 +18,10 @@ DB_CONNECTION = //Your MongoDB url goes here
 ```
 sample url: **mongodb+srv://\<username>:\<password>@\<cluster>.6cai5.mongodb.net/\<collection>?retryWrites=true&w=majority**
 
+### Run npm start
+```bash
+npm start
+```
 ---
 ## Create
 * endpoint: **localhost:3000/api/users**

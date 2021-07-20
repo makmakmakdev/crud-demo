@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "CRUD for MongoDB with MVC framework.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
